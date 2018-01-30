@@ -5,6 +5,6 @@ To give a more comprehensive understanding of SCAN (the abbreviation of Sliding 
 
 There are two examples for scene text recognition using SCAN.
 
-![img](https://github.com/nameful/SCAN_IJCAI/blob/master/EG1.gif)
+![img](https://github.com/nameful/SCAN_IJCAI/blob/master/IMG/EG1.gif)
 
-![img](https://github.com/nameful/SCAN_IJCAI/blob/master/EG2.gif)
+![img](https://github.com/nameful/SCAN_IJCAI/blob/master/IMG/EG2.gif)
